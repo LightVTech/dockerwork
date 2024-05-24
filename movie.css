@@ -1,0 +1,31 @@
+*{
+    background-color: brown;
+    padding: 0;
+    margin: 0;
+
+}
+
+.first{
+    color: aqua;
+}
+
+.container{
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+
+.btn-doc{
+    width: 70px;
+    padding: 2px;
+    background-color: coral;
+    color: antiquewhite;
+    font: bolder;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 5px;
+    margin-top: 12px;
+}
